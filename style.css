@@ -1,0 +1,6 @@
+.tombol {
+    display: block; /* Makes the button a block element */
+    margin: 0 auto; /* Centers horizontally */ 
+    margin-top: 35%;
+    width: 25%;
+}
